@@ -81,7 +81,7 @@ section {
 
 /* Apply section to hero */
 .hero {
-    background-image: url("./assets/images/run-buddy\ bg.jpeg");
+    background-image: url("./assets/images/run-buddy\ bg.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
